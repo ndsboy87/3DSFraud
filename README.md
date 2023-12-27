@@ -8,5 +8,7 @@ This New UI will be modern-like and no more terminal, pictures will be added soo
 Yeah, Users! You can upload and share CIA's! A friendly community one might say. You can register and login on client. Our servers **aren't** vulnerable and use a lot of Filters to keep our security up. Happy Sharing!
 # Malware Checks
 We can't do malware checks, thats why its up to you to be safe. Make sure you don't get bricked!
-# TBD
-More Articles TBD for 3DSFraud
+# Piracy
+Yeah, this is Piracy. TL;DR Nintendo doesn't care.
+# DOCS!
+3DSFraud Developer Terminal is not yet out, may never come to the public.
